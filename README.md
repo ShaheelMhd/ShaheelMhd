@@ -28,6 +28,7 @@ Alongside cloud work, I have a strong foundation in **modern web development**, 
 ### AWS
 - EC2 (Linux-based deployments)
 - VPC (public/private subnets, route tables, IGW, NAT Gateway)
+- IAM (Users, Roles and Permissions)
 - S3 (static hosting, asset storage)
 - CloudFront (global CDN)
 - RDS (PostgreSQL, Multi-AZ aware architecture)
@@ -98,7 +99,7 @@ Alongside cloud work, I have a strong foundation in **modern web development**, 
 ## 🎯 Current Focus
 
 - Strengthening AWS architecture fundamentals
-- Building **interview-grade cloud projects**
+- Building **production-grade cloud projects**
 - Preparing for **AWS Solutions Architect Associate**
 - Transitioning fully into **Cloud / DevOps roles**
 
