@@ -64,16 +64,34 @@ Alongside cloud work, I have a strong foundation in **modern web development**, 
 
 ---
 
-## 📦 Notable Project Themes
+## 📦 Notable Cloud Projects
 
-- **Static website hosting using S3 + CloudFront**
-- **Three-tier AWS architecture (Frontend / Backend / Database)**
-- **VPC design with secure private networking**
-- **Containerized application deployments**
-- **Cloud-focused portfolio projects for interviews**
-- **Infrastructure documentation & diagrams**
+- **Production-grade CI/CD Pipeline for ECS (Fargate)**
+  - GitHub Actions → Docker image build → Amazon ECR → ECS service update
+  - Zero-SSH, fully automated deployments
+  - Designed as a dedicated CI/CD-focused repository
 
-> Emphasis is always on **architecture, deployment, and cloud fundamentals**, not just application logic.
+- **Terraform-Provisioned ECS Fargate Infrastructure**
+  - End-to-end AWS infrastructure as code
+  - VPC with public/private subnets, IAM roles, security groups
+  - Containerized service deployment with scalability in mind
+
+- **Three-Tier AWS Architecture**
+  - Frontend, backend, and database isolation
+  - VPC networking with controlled internet access
+  - RDS PostgreSQL deployed in private subnets
+
+- **Static Website Hosting with S3 + CloudFront**
+  - Global content delivery using CloudFront
+  - Secure S3 origin configuration
+  - Cost-optimized, highly available setup
+
+- **Containerized Application Deployments**
+  - Dockerized services built for cloud environments
+  - Environment-based configuration
+  - Designed for portability and scalability
+
+> All projects emphasize **architecture decisions, AWS best practices, and production-style deployment workflows** rather than just application logic.
 
 ---
 
